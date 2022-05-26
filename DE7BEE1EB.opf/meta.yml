@@ -1,0 +1,22 @@
+id: DE7BEE1EB
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2021-11-12T08:57:23+00:00'
+last_modified: '2022-05-26T10:32:44.952085+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/a7eec5e12ddce18d0ed1dbb732a42cf48f94dd09/openpecha/formatters/hfml.py
+source_metadata:
+  base:
+    061a:
+      image_group_id: I1PD95867
+      title: འཕགས་པ་སྤྱན་རས་གཟིགས་འཇིག་རྟེན་དབང་ཕྱུག་སྒྲུབ་པའི་ཐབས།
+      total_pages: 1409
+      order: 22
+      base_file: 061a.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
